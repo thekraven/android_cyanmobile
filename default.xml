@@ -22,7 +22,7 @@
   <project path="development" name="CyanMobile/android_development_cyanmobile" />
   <project path="device/advent/vega" name="CyanogenMod/android_device_advent_vega" />
   <project path="device/common" name="CyanogenMod/android_device_common" />
-  <project path="device/motorola/sholes" name="CyanogenMod/android_device_motorola_sunfire" />
+  <project path="device/motorola/sunfire" name="CyanogenMod/android_device_motorola_sunfire" />
   <project path="device/zte/blade" name="CyanMobile/android_device_zte_blade_cyanmobile" />
   <project path="external/alsa-lib" name="CyanogenMod/android_external_alsa-lib" />
   <project path="external/alsa-utils" name="CyanogenMod/android_external_alsa-utils" />
