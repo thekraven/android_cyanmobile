@@ -185,6 +185,7 @@
   <project path="packages/apps/DeskClock" name="CyanMobile/android_packages_apps_DeskClock_cyanmobile" />
   <project path="packages/apps/DockAudio" name="CyanogenMod/android_packages_apps_DockAudio" />
   <project path="packages/apps/DSPManager" name="CyanogenMod/android_packages_apps_DSPManager" />
+  <project path="packages/apps/Email" name="CyanogenMod/android_packages_apps_Email" />
   <project path="packages/apps/FileManager" name="CyanMobile/android_packages_apps_FileManager_cyanmobile" />
   <project path="packages/apps/FM" name="CyanMobile/android_packages_apps_FM_cyanmobile" />
   <project path="packages/apps/Gallery" name="CyanogenMod/android_packages_apps_Gallery" />
