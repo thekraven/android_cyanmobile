@@ -151,7 +151,7 @@
   <project path="ndk" name="CyanMobile/android_ndk_cyanmobile" />
   <project path="packages/apps/AccountsAndSyncSettings" name="CyanMobile/android_packages_apps_AccountsAndSyncSettings_cyanmobile" />
   <project path="packages/apps/AicBootFix" name="CyanogenMod/android_packages_apps_AicBootFix" revision="master"/>
-  <project path="packages/apps/ADWLauncher" name="CyanMobile/android_packages_apps_ADWLauncher_cyanmobile" />
+  <project path="packages/apps/ADWLauncher" name="thekraven/android_packages_apps_ADWLauncher_cyanmobile" />
   <project path="packages/apps/AndroidTerm" name="CyanMobile/android_packages_apps_AndroidTerm_cyanmobile" />
   <project path="packages/apps/Bluetooth" name="CyanMobile/android_packages_apps_Bluetooth_cyanmobile" />
   <project path="packages/apps/Browser" name="CyanMobile/android_packages_apps_Browser_cyanmobile" />
