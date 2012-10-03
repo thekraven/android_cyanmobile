@@ -25,7 +25,7 @@
   <project path="device/advent/vega" name="CyanogenMod/android_device_advent_vega" />
   <project path="device/common" name="CyanogenMod/android_device_common" />
   <project path="device/motorola/sunfire" name="thekraven/android_device_motorola_sunfire-1" revision="cyan" />
-  <project path="vendor/moto" name="thekraven/proprietary_vendor_motorola" revision="gbsunfire" />
+  <project path="vendor/moto" name="thekraven/proprietary_vendor_motorola" revision="cyan" />
   <project path="device/zte/blade" name="CyanMobile/android_device_zte_blade_cyanmobile" />
   <project path="external/alsa-lib" name="CyanogenMod/android_external_alsa-lib" />
   <project path="external/alsa-utils" name="CyanogenMod/android_external_alsa-utils" />
@@ -128,7 +128,7 @@
   <project path="external/xmlwriter" name="CyanogenMod/android_external_xmlwriter" />
   <project path="external/yaffs2" name="CyanogenMod/android_external_yaffs2" />
   <project path="external/zlib" name="CyanMobile/android_external_zlib_cyanmobile" />
-  <project path="frameworks/base" name="CyanMobile/android_frameworks_base_cyanmobile" />
+  <project path="frameworks/base" name="thekraven/android_frameworks_base_cyanmobile" revision="cyan" />
   <project path="frameworks/ex" name="CyanogenMod/android_frameworks_ex" />
   <project path="frameworks/opt/emoji" name="CyanogenMod/android_frameworks_opt_emoji" />
   <project path="hardware/broadcom/wlan" name="CyanogenMod/android_hardware_broadcom_wlan" />
@@ -241,7 +241,7 @@
   <project path="system/vold" name="CyanMobile/android_system_vold_cyanmobile" />
   <project path="system/wlan/ti" name="CyanogenMod/android_system_wlan_ti" />
 
-  <project path="vendor/cyanogen" name="thekraven/android_vendor_cyanogen" revision "cyan" />
+  <project path="vendor/cyanogen" name="thekraven/android_vendor_cyanmobile />
   <project path="vendor/qcom/opensource/webkit" name="CyanogenMod/android_vendor_qcom_opensource_webkit" />
   <project path="vendor/tmobile/apps/ThemeChooser" name="CyanMobile/themes-platform-vendor-tmobile-apps-ThemeChooser_cyanmobile" />
   <project path="vendor/tmobile/libs/com.tmobile.themes" name="CyanogenMod/android_vendor_tmobile_libs_com.tmobile.themes" />
