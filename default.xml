@@ -22,10 +22,9 @@
   <project path="bootable/recovery" name="CyanMobile/android_bootable_recovery_cyanmobile" />
   <project path="dalvik" name="CyanMobile/android_dalvik_cyanmobile" />
   <project path="development" name="CyanMobile/android_development_cyanmobile" />
-  <project path="device/advent/vega" name="CyanogenMod/android_device_advent_vega" />
   <project path="device/common" name="CyanogenMod/android_device_common" />
   <project path="device/motorola/sunfire" name="thekraven/android_device_motorola_sunfire_cyanmobile" revision="cyan" />
-  <project path="vendor/moto" name="thekraven/proprietary_vendor_motorola" revision="cyan" />
+  <project path="vendor/moto" name="thekraven/proprietary_vendor_motorola" revision="cyan2" />
   <project path="device/zte/blade" name="CyanMobile/android_device_zte_blade_cyanmobile" />
   <project path="external/alsa-lib" name="CyanogenMod/android_external_alsa-lib" />
   <project path="external/alsa-utils" name="CyanogenMod/android_external_alsa-utils" />
@@ -38,7 +37,7 @@
   <project path="external/bluetooth/bluez" name="CyanMobile/android_external_bluetooth_bluez_cyanmobile" />
   <project path="external/bluetooth/glib" name="CyanogenMod/android_external_bluetooth_glib" />
   <project path="external/bluetooth/hcidump" name="CyanogenMod/android_external_bluetooth_hcidump" />
-  <project path="external/bootmenu" name="CyanogenMod/android_external_bootmenu" />
+  <project path="external/bootmenu" name="CyanMobile/android_external_bootmenu_cyanmobile" />
   <project path="external/bouncycastle" name="CyanogenMod/android_external_bouncycastle" />
   <project path="external/bsdiff" name="CyanogenMod/android_external_bsdiff" />
   <project path="external/bzip2" name="CyanogenMod/android_external_bzip2" />
@@ -128,7 +127,7 @@
   <project path="external/xmlwriter" name="CyanogenMod/android_external_xmlwriter" />
   <project path="external/yaffs2" name="CyanogenMod/android_external_yaffs2" />
   <project path="external/zlib" name="CyanMobile/android_external_zlib_cyanmobile" />
-  <project path="frameworks/base" name="thekraven/android_frameworks_base_cyanmobile" revision="gingerbread" />
+  <project path="frameworks/base" name="CyanMobile/android_frameworks_base_cyanmobile" />
   <project path="frameworks/ex" name="CyanogenMod/android_frameworks_ex" />
   <project path="frameworks/opt/emoji" name="CyanogenMod/android_frameworks_opt_emoji" />
   <project path="hardware/broadcom/wlan" name="CyanogenMod/android_hardware_broadcom_wlan" />
@@ -172,14 +171,14 @@
   <project path="packages/apps/CMDroidwall" name="CyanMobile/android_packages_apps_CMDroidwall_cyanmobile" />
   <project path="packages/apps/CMFontsChanger" name="CyanMobile/android_packages_apps_CMFontsChanger_cyanmobile" />
   <project path="packages/apps/CMFrameworksChanger" name="CyanMobile/android_packages_apps_CMFrameworksChanger_cyanmobile" />
-  <project path="packages/apps/CMParts" name="thekraven/android_packages_apps_CMParts_cyanmobile" revision="cyan" />
+  <project path="packages/apps/CMParts" name="CyanMobile/android_packages_apps_CMParts_cyanmobile" />
   <project path="packages/apps/CMPartsFinder" name="CyanMobile/android_packages_apps_CMPartsFinder_cyanmobile" />
   <project path="packages/apps/CMScreenshot" name="CyanMobile/android_packages_apps_CMScreenshot_cyanmobile" />
   <project path="packages/apps/CMShutdownanimation" name="CyanMobile/android_packages_apps_CMShutdownanimation_cyanmobile" />
   <project path="packages/apps/CMTaskSwitcher" name="CyanMobile/android_packages_apps_CMTaskSwitcher_cyanmobile" />
   <project path="packages/apps/CMTimers" name="CyanMobile/android_packages_apps_CMTimers_cyanmobile" />
   <project path="packages/apps/CMTSCalibration" name="CyanMobile/android_packages_apps_CMTSCalibration_cyanmobile" />
-  <project path="packages/apps/CMWallpapers" name="CyanogenMod/android_packages_apps_CMWallpapers" />
+  <project path="packages/apps/CMWallpapers" name="CyanMobile/android_packages_apps_CMWallpapers_cyanmobile" />
   <project path="packages/apps/CMWimaxSettings" name="CyanogenMod/android_packages_apps_CMWimaxSettings" />
   <project path="packages/apps/Contacts" name="CyanMobile/android_packages_apps_Contacts_cyanmobile" />
   <project path="packages/apps/DeskClock" name="CyanMobile/android_packages_apps_DeskClock_cyanmobile" />
@@ -208,7 +207,7 @@
   <project path="packages/apps/SMSBarrage" name="CyanMobile/android_packages_apps_SMSBarrage_cyanmobile" />
   <project path="packages/apps/SMSMorse" name="CyanMobile/android_packages_apps_SMSMorse_cyanmobile" />
   <project path="packages/apps/SoundRecorder" name="CyanogenMod/android_packages_apps_SoundRecorder" />
-  <project path="packages/apps/Superuser" name="CyanogenMod/android_packages_apps_Superuser" />
+  <project path="packages/apps/Superuser" name="CyanMobile/android_packages_apps_Superuser_cyanmobile" />
   <project path="packages/apps/Stk" name="CyanMobile/android_packages_apps_Stk_cyanmobile" />
   <project path="packages/apps/Tag" name="CyanogenMod/android_packages_apps_Tag" />
   <project path="packages/apps/TaskMan" name="CyanMobile/android_packages_apps_TaskMan_cyanmobile" />
@@ -218,7 +217,7 @@
   <project path="packages/apps/VoiceDialer" name="CyanogenMod/android_packages_apps_VoiceDialer" />
   <project path="packages/experimental" name="CyanMobile/android_packages_experimental_cyanmobile" />
   <project path="packages/inputmethods/LatinIME" name="CyanMobile/android_packages_inputmethods_LatinIME_cyanmobile" />
-  <project path="packages/providers/ApplicationsProvider" name="CyanogenMod/android_packages_providers_ApplicationsProvider" />
+  <project path="packages/providers/ApplicationsProvider" name="CyanMobile/android_packages_providers_ApplicationsProvider_cyanmobile" />
   <project path="packages/providers/CalendarProvider" name="CyanMobile/android_packages_providers_CalendarProvider_cyanmobile" />
   <project path="packages/providers/ContactsProvider" name="CyanMobile/android_packages_providers_ContactsProvider_cyanmobile" />
   <project path="packages/providers/DownloadProvider" name="CyanMobile/android_packages_providers_DownloadProvider_cyanmobile" />
@@ -238,7 +237,7 @@
   <project path="system/extras" name="CyanMobile/android_system_extras_cyanmobile" />
   <project path="system/media" name="CyanogenMod/android_system_media" />
   <project path="system/netd" name="CyanMobile/android_system_netd_cyanmobile" />
-  <project path="system/su" name="CyanogenMod/android_system_su" />
+  <project path="system/su" name="CyanMobile/android_system_su_cyanmobile" />
   <project path="system/vold" name="CyanMobile/android_system_vold_cyanmobile" />
   <project path="system/wlan/ti" name="CyanogenMod/android_system_wlan_ti" />
 
@@ -251,7 +250,7 @@
   <project path="vendor/tmobile/themes/Cyanbread" name="CyanMobile/android_vendor_tmobile_themes_Cyanbread_cyanmobile" />
   <project path="vendor/tmobile/products/themes" name="CyanogenMod/android_vendor_tmobile_products_themes" />
 
-   <project name="thekraven/android_device_lge_thunderc" path="device/lge/thunderc" remote="github" revision="cyan" />
-   <project name="thekraven/vendor_lge_thunderc" path="vendor/lge/thunderc" remote="github" revision="cyan" />
+   <project name="thekraven/android_device_lge_thunderc_cyanmobile" path="device/lge/thunderc" remote="github" revision="cyan" />
+   <project name="thekraven/vendor_lge_thunderc" path="vendor/lge/thunderc" remote="github" revision="cyan2" />
   <project path="android" name="CyanMobile/android_cyanmobile" />
 </manifest>
